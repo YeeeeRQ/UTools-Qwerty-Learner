@@ -1,0 +1,16 @@
+{
+  "version": "3.0.0",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼工具",
+  "features": [
+    {
+      "code": "typing",
+      "explain": "⌨正常英语记忆模式",
+      "cmds": ["English", "typing", "tp", "英语单词"]
+    }
+  ],
+  "pluginSetting": {
+    "single": true
+  }
+}
